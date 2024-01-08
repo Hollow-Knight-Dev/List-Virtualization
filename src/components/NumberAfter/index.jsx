@@ -20,7 +20,7 @@ export default NumberAfter
 // Another method without sending data
 /* const NumberRow = ({ index, style }) => <div style={style}>Row {index + 1}</div>
 
-const Number2 = ({}) => {
+const NumberAfter = ({}) => {
   return (
     <AutoSizer>
       {({ height, width }) => (
